@@ -111,7 +111,7 @@ Les tests API peuvent être réalisés avec :
 Projet réalisé par :
 
 **Mehdi Rebahi et helmi benzaid**
-Étudiant international en Programmation Informatique
+Des Étudiants international en Programmation Informatique
 Collège André-Grasset – Montréal
 
 ## Version
